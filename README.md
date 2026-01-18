@@ -1,5 +1,9 @@
-Recipely
+**Recipely**
 
-Key components: User profiles and Ingredients database Recipe management and creation system
+Key components:
 
-Set up React for front-end Configure Java to work with Spring Boot Install and configure MongoDB
+User profiles and ingredients database<br>
+Recipe management and creation system<br>
+Set up React for front-end<br> 
+Configure Java to work with Spring Boot<br>
+Install and configure MongoDB<br>
